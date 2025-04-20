@@ -19,7 +19,7 @@ void Menu::displayMainMenu() const {
     setColor(14); // Gelb
     std::cout << "\n\n";
     std::cout << "          +------------------------+\n";
-    std::cout << "          | Adesso (Louis Stranz)  |\n";
+    std::cout << "          | Adesso (Louis       )  |\n";
     std::cout << "          +------------------------+\n\n";
     
     setColor(11); // Cyan
