@@ -1,0 +1,20 @@
+﻿  BEWERBUNGSAUFGABEadesso.cpp
+  Game.cpp
+  GameEffects.cpp
+C:\Users\braaz\Desktop\Hacking\BEWERBUNGSAUFGABEadesso\BEWERBUNGSAUFGABEadesso\GameEffects.cpp(22,39): warning C4267: "=": Konvertierung von "size_t" nach "SHORT", Datenverlust möglich
+C:\Users\braaz\Desktop\Hacking\BEWERBUNGSAUFGABEadesso\BEWERBUNGSAUFGABEadesso\GameEffects.cpp(39,34): warning C4838: Konvertierung von "int" zu "const char" erfordert eine einschränkende Konvertierung
+C:\Users\braaz\Desktop\Hacking\BEWERBUNGSAUFGABEadesso\BEWERBUNGSAUFGABEadesso\GameEffects.cpp(39,34): warning C4305: "Initialisierung": Verkürzung von "int" in "const char"
+C:\Users\braaz\Desktop\Hacking\BEWERBUNGSAUFGABEadesso\BEWERBUNGSAUFGABEadesso\GameEffects.cpp(39,34): warning C4309: "Initialisierung": Verkürzung eines konstanten Wertes
+C:\Users\braaz\Desktop\Hacking\BEWERBUNGSAUFGABEadesso\BEWERBUNGSAUFGABEadesso\GameEffects.cpp(39,44): warning C4838: Konvertierung von "int" zu "const char" erfordert eine einschränkende Konvertierung
+C:\Users\braaz\Desktop\Hacking\BEWERBUNGSAUFGABEadesso\BEWERBUNGSAUFGABEadesso\GameEffects.cpp(39,44): warning C4305: "Initialisierung": Verkürzung von "int" in "const char"
+C:\Users\braaz\Desktop\Hacking\BEWERBUNGSAUFGABEadesso\BEWERBUNGSAUFGABEadesso\GameEffects.cpp(39,44): warning C4309: "Initialisierung": Verkürzung eines konstanten Wertes
+C:\Users\braaz\Desktop\Hacking\BEWERBUNGSAUFGABEadesso\BEWERBUNGSAUFGABEadesso\GameEffects.cpp(39,54): warning C4838: Konvertierung von "int" zu "const char" erfordert eine einschränkende Konvertierung
+C:\Users\braaz\Desktop\Hacking\BEWERBUNGSAUFGABEadesso\BEWERBUNGSAUFGABEadesso\GameEffects.cpp(39,54): warning C4305: "Initialisierung": Verkürzung von "int" in "const char"
+C:\Users\braaz\Desktop\Hacking\BEWERBUNGSAUFGABEadesso\BEWERBUNGSAUFGABEadesso\GameEffects.cpp(39,54): warning C4309: "Initialisierung": Verkürzung eines konstanten Wertes
+C:\Users\braaz\Desktop\Hacking\BEWERBUNGSAUFGABEadesso\BEWERBUNGSAUFGABEadesso\GameEffects.cpp(70,58): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  Menu.cpp
+  Scoreboard.cpp
+  Code wird generiert...
+  BEWERBUNGSAUFGABEadesso.vcxproj -> C:\Users\braaz\Desktop\Hacking\BEWERBUNGSAUFGABEadesso\x64\Debug\BEWERBUNGSAUFGABEadesso.exe
+  Der Befehl "pwsh.exe" ist entweder falsch geschrieben oder
+  konnte nicht gefunden werden.
